@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [FrontEnd Mentor](https://www.frontendmentor.io/solutions/pod-request-access-landing-page-AL2DozwBS)
+- Live Site URL: [GitHub Page](https://untalpeluca.github.io/PodRequestAccessLandingPage/)
 
 ## My process
 
