@@ -237,7 +237,7 @@ main{
     .content-container{
         max-width: 723px;
         max-height: 640px;
-        margin-top: 0;
+        margin-top: 25px;
     }
     .apps-wrapper{
         max-width: 536px;
