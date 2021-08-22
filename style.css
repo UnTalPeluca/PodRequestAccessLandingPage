@@ -63,6 +63,7 @@ main{
     display: flex;
     padding-top: 60px;
     justify-content: space-between;
+    opacity: 0.5;
 }
 .app img{
     max-height: 15px;
